@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project aims to model and analyze the relationship between predictors — **Age**, **Income**, and **Duration_Months** — and a binary outcome variable (**Success**). The goal is to estimate the influence of these variables on the probability of success, assess model fit, interpret coefficient effects, and compare Bayesian logistic regression results with frequentist regularized logistic regression (L1 and L2 penalties). 
+This project aims to model and analyze the relationship between predictors: **Age**, **Income**, and **Duration_Months** and a binary outcome variable (**Success**). The goal is to estimate the influence of these variables on the probability of success, assess model fit, interpret coefficient effects, and compare Bayesian logistic regression results with frequentist regularized logistic regression (L1 and L2 penalties). 
 
 ---
 
